@@ -7668,6 +7668,11 @@ textarea.form-control-lg {
   margin-bottom: 1.5rem !important;
 }
 
+.mb-5-normal {
+    margin-bottom: 3rem !important;
+    
+}
+
 .mb-5 {
   margin-bottom: 3rem !important;
 }
@@ -8006,6 +8011,10 @@ textarea.form-control-lg {
 
 .text-decoration-line-through {
   text-decoration: line-through !important;
+}
+
+.text-none {
+    text-transform: none !important;
 }
 
 .text-lowercase {
@@ -10848,7 +10857,7 @@ h5,
 .h5,
 h6,
 .h6 {
-  text-transform: uppercase;
+    text-transform: uppercase;
 }
 
 h1, .h1 {
@@ -10861,10 +10870,10 @@ p.lead {
 }
 
 .subheading {
-  font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  text-transform: uppercase;
-  font-weight: 500;
-  font-size: 1.5rem;
+    font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 1.5rem;
 }
 
 #sideNav {
